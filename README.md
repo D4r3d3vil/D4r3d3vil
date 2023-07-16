@@ -1,5 +1,5 @@
 # <p style="text-align: center;">💫 About Me:</p>
-<p style="text-align: center;">🔭 I’m currently working on a new encryption/decryption method<br>👯 I’m looking to collaborate on any project that has potential<br>🤝 I’m looking for help with my latest project<br>🌱 I’m currently solidifying what I already know<br>💬 Ask me about anything related to python, nodeJS and web<br>⚡18 years and counting</p>
+<p style="text-align: center;">🔭 I’m currently working on a new encryption/decryption method<br>👯 I’m looking to collaborate on any project that has potential<br>🤝 I’m looking for help with my latest project<br>🌱 I’m currently solidifying what I already know<br>💬 Ask me about anything related to python, nodeJS and web<br>⚡14 years and counting</p>
 
 
 ## <p style="text-align: center;">🌐 Socials:</p><div style="text-align: center">
