@@ -17,8 +17,3 @@
 
 ### <p style="text-align: center;">✍️ Random Dev Quote</p>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----<p style="text-align: center;">
-[![](https://visitcount.itsvg.in/api?id=D4r3d3vil&icon=0&color=3)](https://visitcount.itsvg.in)</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
